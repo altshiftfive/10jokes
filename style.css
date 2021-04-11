@@ -16,6 +16,9 @@ h1 {
   color: #f66c41;
 }
 
+.strike-text {
+  text-decoration: line-through;
+}
 figure {
   position: relative;
 }
