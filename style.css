@@ -1,0 +1,85 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  position: absolute;
+  top: 105px;
+  left: 73px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+  color: #ffffff;
+}
+.important-word {
+  color: #f66c41;
+}
+
+figure {
+  position: relative;
+}
+figcaption {
+  margin: 0 0 90px 73px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  color: #bcbbbb;
+}
+
+.wrapper {
+  padding: 0 73px 104px 73px;
+}
+.introduction {
+  display: block;
+  margin-bottom: 90px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+  color: #ffffff;
+}
+
+.introduction-preparation {
+  display: block;
+  margin-bottom: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 36px;
+  color: #ffffff;
+}
+.preparation-list {
+  margin: 0 0 90px 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  color: #ffffff;
+}
+
+h2 {
+  margin: 0 0 20px 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 70px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.joke-description {
+  display: block;
+  max-width: 811px;
+  margin-bottom: 90px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  color: #ffffff;
+}
+
+.link {
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  color: #f66c41;
+  text-decoration: none;
+  border-bottom: 2px solid currentColor;
+  line-height: 0.9;
+}
