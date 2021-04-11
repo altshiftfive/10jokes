@@ -6,6 +6,7 @@ h1 {
   position: absolute;
   top: 105px;
   left: 73px;
+  max-width: 853px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   font-size: 70px;
